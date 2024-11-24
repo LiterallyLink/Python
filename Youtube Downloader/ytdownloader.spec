@@ -36,5 +36,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=None  # You can add an icon file here if you want
+    icon=None
 )
