@@ -1,0 +1,8 @@
+Stylize the Dropdown
+Stylize the Options Menu
+Center Items
+Add Dynamic Font Adjustment for the Count
+Incorporate Symbols for Before and After
+Add a Rename Counter Option
+Add an Add Counter Option with entry fields using TopLevel
+Change basic saving system to a smart save system by comparing the dictionaries and adding whats different
